@@ -1,6 +1,0 @@
-whitelisted = {
-    ["E92B6B26-40F7-476D-9E8F-09639A161CA7"] = true,
-    ["455A51CB-17EF-4F85-930B-7D87C69A09E6"] = true,
-
-}
-return whitelisted
